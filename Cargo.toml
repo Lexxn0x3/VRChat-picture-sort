@@ -1,5 +1,5 @@
 [package]
-name = "VRC_Image_Sort"
+name = "VRChat-picture-sort"
 version = "0.1.0"
 edition = "2021"
 

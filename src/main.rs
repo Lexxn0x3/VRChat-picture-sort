@@ -200,4 +200,3 @@ fn has_visible_files(path: &str) -> io::Result<bool> {
 }
 
 
-

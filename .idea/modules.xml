@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VRC_Image_Sort.iml" filepath="$PROJECT_DIR$/VRC_Image_Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VRChat-picture-sort.iml" filepath="$PROJECT_DIR$/VRChat-picture-sort.iml" />
     </modules>
   </component>
 </project>
