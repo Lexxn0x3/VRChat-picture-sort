@@ -11,8 +11,8 @@ on:
 jobs:
   deployment:
     runs-on: ubuntu-lates
-
+    environment: production
     steps:
     - uses: actions/checkout@v3
-    - name: Build
+    - name: deploy
       run: cargo build --verbose --release
