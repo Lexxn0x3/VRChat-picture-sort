@@ -1,1 +1,1 @@
-# VRChat picture sort
+# VRC_Image_Sort
