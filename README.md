@@ -22,7 +22,7 @@ To use this tool, follow these simple steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/VRChat-Picture-Sort.git
+   git clone https://github.com/Lexxn0x3/VRChat-picture-sort.git
    ```
 
 2. **Navigate to the Project Directory:**
