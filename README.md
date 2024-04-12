@@ -55,7 +55,7 @@ Contributions are more than welcome! If you have suggestions for improvements or
 
 ## License 📜
 
-This project is licensed under [GLP-2.0](LICENSE). Feel free to use it, contribute, or share it as you see fit.
+This project is licensed under [GPL-2.0](LICENSE). Feel free to use it, contribute, or share it as you see fit.
 
 ---
 
